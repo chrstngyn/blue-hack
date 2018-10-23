@@ -6,5 +6,7 @@ weRise mobile app provides a list of STEM events and programs in their community
 weRise web app provides services to our clients for them to improve recruitment of underrepresented minority students in STEM. 
 
 Team: Space Jam
+
 Team Members: Issam Abushaban, Victoria Mbakwe, Christine Nguyen, Nse O'Dean
+
 University of Pittsburgh
